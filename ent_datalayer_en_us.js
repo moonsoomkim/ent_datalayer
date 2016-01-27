@@ -5,5 +5,6 @@ var enterpriseDatalayer = {
   market_info : "en-us",  // Market info where this is relevant.
   version : "en-us.1"     // Market and Version number.
   
+  ////////// Add any BU specific data layer elements below this line. Do not modify above.
 }
 </script>
